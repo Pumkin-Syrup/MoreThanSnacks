@@ -1,0 +1,78 @@
+ /* Body */
+ body {
+    background-color: #15161a;    
+        margin:0;    
+        padding:0;
+        }
+    
+   /* Characters */
+  #ireland{
+      color: #e1ad01;
+  }
+  #cici{
+      color:#7a0000;
+  }
+  #em{
+      color: #9cff00;
+  }
+  #joyce{
+    color: #00f7ff;
+}
+   /* Top Nav Bar */
+  
+  .topBarText {
+      color: #fff;
+      font-family: 'Share Tech Mono', monospace;
+      font-size: 50px;
+      text-align:left;
+      position: relative;
+      bottom:40px;
+    }
+    .sticky {
+      position: fixed;
+      top: 0;
+      width: 100%;
+    }
+    #topBar{
+
+      height: 9%;
+      width: 100%;
+      border-bottom: 1px solid  #6C4F71;
+      height: 9%;
+      width: 100%;
+      background-color: #000;
+  }
+  
+  /* Main Page Info */
+     #mainInfoBox{
+      color: rgb(255, 255, 255);
+      font-family: 'Courier Prime', monospace;
+      background-color: #1B1D24;
+      border: 5px solid #6C4F71;
+      height: 30%;
+      width: 30%;
+         margin: auto;
+         margin-top: 85px;
+          padding: 10px;
+  
+  }
+
+  a:link {
+    color: rgb(13, 240, 13);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  /* Texts */
+  P{
+      padding: px;
+  }
+  .rightSideText{
+      text-align:right;
+      
+  }
+  .centerSideText{
+      text-align:center;
+      margin-left: 150px;
+  }
+  
